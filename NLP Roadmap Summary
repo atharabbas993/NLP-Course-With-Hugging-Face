@@ -61,29 +61,8 @@ This roadmap provides a structured guide to learning **Natural Language Processi
 
 ---
 
-## 📚 Resources
-- **Documentation**:
-  - [Hugging Face Transformers Documentation](https://huggingface.co/docs/transformers/)
-  - [Hugging Face Datasets Documentation](https://huggingface.co/docs/datasets/)
-- **Books**:
-  - "Natural Language Processing with Transformers" by Lewis Tunstall et al.
-- **Courses**:
-  - Hugging Face's official NLP course.
-
----
-
 ## 💡 Tips for Success
 - **Start small**: Begin with simple tasks and gradually move to complex projects.
 - **Experiment**: Try different models and datasets to understand their strengths and weaknesses.
 - **Collaborate**: Join the Hugging Face community and participate in discussions.
 - **Stay updated**: Follow the latest research and updates in NLP.
-
----
-
-## Contribution
-Feel free to contribute to this roadmap by opening issues or pull requests. Let's make this the ultimate guide for learning NLP with Hugging Face! 🙌
-
----
-
-## License
-This roadmap is licensed under the MIT License. See [LICENSE](LICENSE) for more details.
