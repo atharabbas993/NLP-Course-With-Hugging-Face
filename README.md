@@ -1,10 +1,10 @@
-# Zero to Hero NLP Roadmap with Hands-On Projects
+# 🚀 Zero to Hero NLP Roadmap with Hands-On Projects
 
 This roadmap is designed to take you from a beginner to an advanced practitioner in **Natural Language Processing (NLP)**. It focuses on building a strong theoretical foundation, practical skills, and hands-on projects, with a special emphasis on **Hugging Face** and **LLM fine-tuning**. By the end of this roadmap, you will be able to work on real-world NLP projects confidently.
 
 ---
 
-## **Phase 1: NLP Fundamentals (0-2 Months)**
+## **📚 Phase 1: NLP Fundamentals (0-2 Months)**
 
 ### **1.1. Text Preprocessing**
 - **Key Concepts**:
@@ -33,7 +33,7 @@ This roadmap is designed to take you from a beginner to an advanced practitioner
 
 ---
 
-## **Phase 2: Intermediate NLP (2-4 Months)**
+## **📈 Phase 2: Intermediate NLP (2-4 Months)**
 
 ### **2.1. Word Embeddings**
 - **Key Concepts**:
@@ -61,7 +61,7 @@ This roadmap is designed to take you from a beginner to an advanced practitioner
 
 ---
 
-## **Phase 3: Advanced NLP (4-6 Months)**
+## **🚀 Phase 3: Advanced NLP (4-6 Months)**
 
 ### **3.1. Transformer Architecture**
 - **Key Concepts**:
@@ -88,7 +88,7 @@ This roadmap is designed to take you from a beginner to an advanced practitioner
 
 ---
 
-## **Phase 4: Real-World Applications and Deployment (6-8 Months)**
+## **🌐 Phase 4: Real-World Applications and Deployment (6-8 Months)**
 
 ### **4.1. Building End-to-End NLP Pipelines**
 - **Key Concepts**:
@@ -113,7 +113,7 @@ This roadmap is designed to take you from a beginner to an advanced practitioner
 
 ---
 
-## **Phase 5: Mastery and Beyond (8+ Months)**
+## **🏆 Phase 5: Mastery and Beyond (8+ Months)**
 
 ### **5.1. Research and Innovation**
 - **Key Concepts**:
@@ -135,11 +135,12 @@ This roadmap is designed to take you from a beginner to an advanced practitioner
 
 ---
 
-## **Resources**
+## **📚 Resources**
 - **Books**:
   - "Speech and Language Processing" by Daniel Jurafsky and James H. Martin.
   - "Natural Language Processing with Python" by Steven Bird, Ewan Klein, and Edward Loper.
 - **Courses**:
+  - [Coursera NLP Specialization](https://www.coursera.org/specializations/natural-language-processing).
   - [Hugging Face Course](https://huggingface.co/course/chapter1).
 - **Datasets**:
   - [Kaggle NLP Datasets](https://www.kaggle.com/datasets?tags=13204-NLP).
@@ -147,7 +148,7 @@ This roadmap is designed to take you from a beginner to an advanced practitioner
 
 ---
 
-## **How to Use This Roadmap**
+## **🎯 How to Use This Roadmap**
 1. Follow the phases in order.
 2. Complete the projects to gain hands-on experience.
 3. Contribute to open-source and build a portfolio to showcase your skills.
